@@ -2687,10 +2687,10 @@
 				ORGANIZATIONNAME = "Krunoslav Zaher";
 				TargetAttributes = {
 					C80938F51B8A71760088E94D = {
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1010;
 					};
 					C8093B4B1B8A71F00088E94D = {
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1010;
 					};
 					C8165ABB21891AFF00494BEF = {
 						CreatedOnToolsVersion = 10.1;
@@ -2713,11 +2713,11 @@
 						LastSwiftMigration = 0800;
 					};
 					C88FA4FD1C25C44800CCFEA4 = {
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1010;
 					};
 					C8A56AD61AD7424700B4673B = {
 						CreatedOnToolsVersion = 6.3;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1010;
 					};
 					C8E8BA541E2C181A00A4AC2C = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -3850,6 +3850,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxCocoa;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -3866,6 +3867,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxCocoa;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -3882,6 +3884,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxCocoa;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = "Release-Tests";
 		};
@@ -3898,6 +3901,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxBlocking;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -3914,6 +3918,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxBlocking;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -3930,6 +3935,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxBlocking;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = "Release-Tests";
 		};
@@ -4280,6 +4286,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxSwift;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = "Release-Tests";
 		};
@@ -4301,6 +4308,7 @@
 				PRODUCT_NAME = RxTest;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos macosx appletvos appletvsimulator";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2,3";
 			};
 			name = Debug;
@@ -4323,6 +4331,7 @@
 				PRODUCT_NAME = RxTest;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos macosx appletvos appletvsimulator";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2,3";
 			};
 			name = Release;
@@ -4345,6 +4354,7 @@
 				PRODUCT_NAME = RxTest;
 				SKIP_INSTALL = YES;
 				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos macosx appletvos appletvsimulator";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2,3";
 			};
 			name = "Release-Tests";
@@ -4493,6 +4503,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxSwift;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -4509,6 +4520,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.rx.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = RxSwift;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
